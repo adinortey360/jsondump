@@ -2,36 +2,36 @@
   {
     "name": "Home",
     "address": "Adepa Crescent, Circle Accra Ghana",
-    "lat": 0.00066,
-    "lng": 0.00000,
+    "lat": "0.00066",
+    "lng": "0.00000",
     "type": "home"
   },
   {
     "name": "Office",
     "address": "Tanbu Lane, Shiashie, Circle Accra Ghana",
-    "lat": 0.000345,
-    "lng": 0.600075,
+    "lat": "0.000345",
+    "lng": "0.600075",
     "type": "office"
   },
   {
     "name": "Tanbu Lane, Shiashie, Circle Accra Ghana",
     "address": "Tanbu Lane, Shiashie, Circle Accra Ghana",
-    "lat": 0.70000,
-    "lng": 0.00007,
+    "lat": "0.70000",
+    "lng": "0.00007",
     "type": "none"
   },
   {
     "name": "Accra Mall, Shiashie, Circle Accra Ghana",
     "address": "Accra Mall, Shiashie, Circle Accra Ghana",
-    "lat": 0.40000,
-    "lng": 0.04040,
+    "lat": "0.40000",
+    "lng": "0.04040",
     "type": "none"
   },
   {
     "name": "Kumasi - Ghana",
     "address": "Kumasi - Ghana",
-    "lat": 0.00500,
-    "lng": 0.00007,
+    "lat": "0.00500",
+    "lng": "0.00007",
     "type": "none"
   }
 ]
